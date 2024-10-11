@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gypso/project/video/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv -g -o CMakeFiles/camera.dir/main.cpp.o -c /home/gypso/project/video/main.cpp",
+  "file": "/home/gypso/project/video/main.cpp"
+}
+]
